@@ -184,7 +184,6 @@ class MyPaintWidget(Widget):
     def __init__(self, **kwargs):
         super().__init__(**kwargs)
         # Editing
-        self.size = (200, 200)
         self.x = (800 / 2) - (200 / 2)
         self.a = 1
         self.r, self.g, self.b = .0, .0, .0
