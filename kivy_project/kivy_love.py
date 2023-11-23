@@ -297,5 +297,5 @@ class Stress(Screen):
 
 
 app = MyApp()
-app.title = 'Enjoy!!!'
+app.title = 'TikTok'
 app.run()
